@@ -1,7 +1,7 @@
 {
-  "version": "1.6.2",
-  "versionCode": 10602,
-  "apkUrl": "BibleLibrary-v1.6.2.apk",
-  "releaseNotes": "Bible Library 1.6.2 localizes Bible book names when Ndebele is selected, so headings and selectors show names such as UMatewu and AbaseRoma while preserving the same offline chapters, memorization, prayers, audio, and saved progress.",
-  "publishedAt": "2026-10-01T08:29:41.7149284Z"
+  "version": "1.7.0",
+  "versionCode": 10700,
+  "apkUrl": "BibleLibrary-v1.7.0.apk",
+  "releaseNotes": "Bible Library 1.7.0 adds whole-Bible unified search across Scripture, studies, prayers and personal notes; custom verse-range memorization; First Letters practice; Weak Verses review; full-screen Pulpit Mode with timer and screen wake lock; richer reading plans including a Bible Prayer Journey; searchable Journal with verse text; and one complete backup system.",
+  "publishedAt": "2026-10-01T09:12:30.9606409Z"
 }
