@@ -1,7 +1,7 @@
 {
-  "version": "1.6.1",
-  "versionCode": 10601,
-  "apkUrl": "BibleLibrary-v1.6.1.apk",
-  "releaseNotes": "Bible Library 1.6.1 adds full-Bible memorization across all 1,189 chapters, a curated Bible Prayers library that identifies who prayed each prayer, focused prayer memorization, progressive recall and testing, spaced review, sermon memory chains, and cleaner mobile navigation.",
-  "publishedAt": "2026-09-30T22:49:17.5900058Z"
+  "version": "1.6.2",
+  "versionCode": 10602,
+  "apkUrl": "BibleLibrary-v1.6.2.apk",
+  "releaseNotes": "Bible Library 1.6.2 localizes Bible book names when Ndebele is selected, so headings and selectors show names such as UMatewu and AbaseRoma while preserving the same offline chapters, memorization, prayers, audio, and saved progress.",
+  "publishedAt": "2026-10-01T08:29:41.7149284Z"
 }
