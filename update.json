@@ -1,7 +1,7 @@
 {
-  "version": "1.7.0",
-  "versionCode": 10700,
-  "apkUrl": "BibleLibrary-v1.7.0.apk",
-  "releaseNotes": "Bible Library 1.7.0 adds whole-Bible unified search across Scripture, studies, prayers and personal notes; custom verse-range memorization; First Letters practice; Weak Verses review; full-screen Pulpit Mode with timer and screen wake lock; richer reading plans including a Bible Prayer Journey; searchable Journal with verse text; and one complete backup system.",
-  "publishedAt": "2026-10-01T09:12:30.9606409Z"
+  "version": "1.8.0",
+  "versionCode": 10800,
+  "apkUrl": "BibleLibrary-v1.8.0.apk",
+  "releaseNotes": "Bible Library 1.8.0 introduces a simpler Home, dedicated Prayers with praying-hands navigation, prayer filters and memorization progress, Bible Collections, Sermon Builder, a simpler Memorize hub, pictures from the Bible Library artwork, and a hardened public GitHub updater. Exact Verse Sync from v1.7.1 is retained.",
+  "publishedAt": "2026-10-03T21:17:53.0225600Z"
 }
